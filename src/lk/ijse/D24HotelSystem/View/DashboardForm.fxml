@@ -8,11 +8,11 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="730.0" prefWidth="1248.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.d24hostelsystem.controller.DashboardFormController">
+<AnchorPane prefHeight="730.0" prefWidth="1248.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.D24HotelSystem.Controller.DashboardFormController">
     <children>
         <ImageView fitHeight="730.0" fitWidth="1370.0" layoutX="-3.0" pickOnBounds="true" preserveRatio="true">
             <image>
-                <Image url="@assets/MacBook%20Air%20-%201%20(1).png" />
+                <Image url="@assets/MacBook Air - 1 (1).png" />
             </image>
         </ImageView>
         <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="10.0" layoutX="649.0" layoutY="30.0" onAction="#reservationOnAction" prefHeight="55.0" prefWidth="180.0" ripplerFill="#000000be" style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Reservation" textFill="#42d032">
