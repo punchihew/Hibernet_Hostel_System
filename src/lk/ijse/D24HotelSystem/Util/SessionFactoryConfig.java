@@ -1,9 +1,13 @@
 package lk.ijse.D24HotelSystem.Util;
 
-import lk.ijse.d24hostelsystem.entity.Reservation;
-import lk.ijse.d24hostelsystem.entity.Room;
-import lk.ijse.d24hostelsystem.entity.Student;
-import lk.ijse.d24hostelsystem.entity.Users;
+import lk.ijse.D24HotelSystem.Entity.Reservation;
+import lk.ijse.D24HotelSystem.Entity.Room;
+import lk.ijse.D24HotelSystem.Entity.Student;
+import lk.ijse.D24HotelSystem.Entity.Users;
+import lk.ijse.D24HotelSystem.Entity.Reservation;
+import lk.ijse.D24HotelSystem.Entity.Room;
+import lk.ijse.D24HotelSystem.Entity.Student;
+import lk.ijse.D24HotelSystem.Entity.Users;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
