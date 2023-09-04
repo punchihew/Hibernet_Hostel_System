@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64fa2323-7184-49a6-9f33-07d3a16df8df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/jfoenix-8.0.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/mysql-connector-java-8.0.30.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/FastInfoset-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/antlr-2.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/byte-buddy-1.12.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/classmate-1.5.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/hibernate-commons-annotations-5.1.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/hibernate-core-5.6.5.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/istack-commons-runtime-3.0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/jandex-2.4.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/javax.activation-api-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/javax.persistence-api-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/jaxb-api-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/jaxb-runtime-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/jboss-logging-3.4.3.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/stax-ex-1.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/txw2-2.3.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Util/SessionFactoryConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +51,7 @@
       <recent name="C:\Users\kr528\Documents\Hibernet\D24_Hostel\src\lk\ijse\D24HotelSystem\View\assets" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lk.ijse.D24HotelSystem.Util" />
       <recent name="lk.ijse.D24HotelSystem.Entity" />
       <recent name="lk.ijse.D24HotelSystem.Dto" />
     </key>
@@ -113,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693843397043</updated>
       <workItem from="1693843398289" duration="4000" />
-      <workItem from="1693844103021" duration="2993000" />
+      <workItem from="1693844103021" duration="3310000" />
     </task>
     <servers />
   </component>
