@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="730.0" prefWidth="1248.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.d24hostelsystem.controller.DashboardFormController">
+    <children>
+        <ImageView fitHeight="730.0" fitWidth="1370.0" layoutX="-3.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@assets/MacBook%20Air%20-%201%20(1).png" />
+            </image>
+        </ImageView>
+        <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="10.0" layoutX="649.0" layoutY="30.0" onAction="#reservationOnAction" prefHeight="55.0" prefWidth="180.0" ripplerFill="#000000be" style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Reservation" textFill="#42d032">
+            <graphic>
+                <ImageView fitHeight="39.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@assets/icons8-reservation-64.png" />
+                    </image>
+                </ImageView>
+            </graphic>
+            <font>
+                <Font name="System Bold" size="19.0" />
+            </font>
+            <cursor>
+                <Cursor fx:constant="HAND" />
+            </cursor></JFXButton>
+        <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="18.0" layoutX="864.0" layoutY="29.0" onAction="#studentsOnAction" prefHeight="54.0" prefWidth="165.0" ripplerFill="#000000be" style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Students" textFill="#42d032">
+            <graphic>
+                <ImageView fitHeight="38.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@assets/icons8-student-64.png" />
+                    </image>
+                </ImageView>
+            </graphic>
+            <font>
+                <Font name="System Bold" size="19.0" />
+            </font>
+            <cursor>
+                <Cursor fx:constant="HAND" />
+            </cursor>
+        </JFXButton>
+        <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="25.0" layoutX="1056.0" layoutY="29.0" onAction="#roomsOnAction" prefHeight="54.0" prefWidth="165.0" ripplerFill="#000000be" style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Rooms" textFill="#42d032">
+            <graphic>
+                <ImageView fitHeight="39.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@assets/icons8-hotel-64.png" />
+                    </image>
+                </ImageView>
+            </graphic>
+            <font>
+                <Font name="System Bold" size="19.0" />
+            </font>
+            <cursor>
+                <Cursor fx:constant="HAND" />
+            </cursor>
+        </JFXButton>
+        <Label fx:id="lblTime" layoutX="64.0" layoutY="656.0" prefHeight="31.0" prefWidth="465.0" text="time" textFill="WHITE">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Label>
+        <AnchorPane fx:id="loadPane" layoutX="15.0" layoutY="97.0" prefHeight="606.0" prefWidth="1217.0" style="-fx-background-radius: 25; -fx-border-color: ffff; -fx-border-radius: 30;">
+            <children>
+                <Label fx:id="roomsCount" layoutX="128.0" layoutY="-5.0" prefHeight="101.0" prefWidth="103.0" text="00" textFill="WHITE">
+                    <font>
+                        <Font name="System Bold" size="60.0" />
+                    </font>
+                </Label>
+                <Label layoutX="232.0" layoutY="23.0" text="Rooms" textFill="WHITE">
+                    <font>
+                        <Font size="32.0" />
+                    </font>
+                </Label>
+                <Label fx:id="studentCount" layoutX="136.0" layoutY="210.0" prefHeight="101.0" prefWidth="103.0" text="00" textFill="WHITE">
+                    <font>
+                        <Font name="System Bold" size="60.0" />
+                    </font>
+                </Label>
+                <Label layoutX="240.0" layoutY="238.0" text="Students" textFill="WHITE">
+                    <font>
+                        <Font size="32.0" />
+                    </font>
+                </Label>
+                <Label fx:id="ReservationCount" layoutX="136.0" layoutY="418.0" prefHeight="101.0" prefWidth="103.0" text="00" textFill="WHITE">
+                    <font>
+                        <Font name="System Bold" size="60.0" />
+                    </font>
+                </Label>
+                <Label layoutX="240.0" layoutY="446.0" text="Reservations" textFill="WHITE">
+                    <font>
+                        <Font size="32.0" />
+                    </font>
+                </Label>
+            </children></AnchorPane>
+        <JFXButton buttonType="RAISED" layoutX="990.0" layoutY="654.0" onAction="#setttingsOnAction" prefHeight="40.0" prefWidth="113.0" style="-fx-background-color: black; -fx-border-color: white; -fx-background-radius: 20; -fx-border-radius: 10;" text="Settings" textFill="WHITE">
+            <graphic>
+                <ImageView fitHeight="29.0" fitWidth="31.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@assets/icons8-setting-50.png" />
+                    </image>
+                </ImageView>
+            </graphic>
+            <cursor>
+                <Cursor fx:constant="OPEN_HAND" />
+            </cursor>
+        </JFXButton>
+        <JFXButton buttonType="RAISED" layoutX="1115.0" layoutY="654.0" onAction="#signOutOnAction" prefHeight="40.0" prefWidth="113.0" style="-fx-background-color: green; -fx-background-radius: 10; -fx-border-color: white; -fx-border-radius: 10;" text="Sign Out" textFill="WHITE">
+            <graphic>
+                <ImageView fitHeight="28.0" fitWidth="33.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@assets/icons8-log-out-96.png" />
+                    </image>
+                </ImageView>
+            </graphic>
+            <cursor>
+                <Cursor fx:constant="OPEN_HAND" />
+            </cursor>
+        </JFXButton>
+        <JFXButton buttonType="RAISED" layoutX="865.0" layoutY="654.0" onAction="#BackOnAction" prefHeight="40.0" prefWidth="113.0" style="-fx-background-color: green; -fx-background-radius: 10; -fx-border-color: white; -fx-border-radius: 10;" text="Back" textFill="WHITE">
+            <graphic>
+                <ImageView fitHeight="28.0" fitWidth="33.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@assets/icons8-back-64.png" />
+                    </image>
+                </ImageView>
+            </graphic>
+            <cursor>
+                <Cursor fx:constant="OPEN_HAND" />
+            </cursor>
+        </JFXButton>
+    </children>
+</AnchorPane>
