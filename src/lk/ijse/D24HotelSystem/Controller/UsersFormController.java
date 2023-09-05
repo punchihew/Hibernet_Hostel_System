@@ -10,8 +10,8 @@ import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import lk.ijse.D24HotelSystem.Bo.BOFactory;
-import lk.ijse.D24HotelSystem.bo.custom.UsersBO;
-import lk.ijse.D24HotelSystem.dto.UsersDTO;
+import lk.ijse.D24HotelSystem.Bo.custom.UsersBO;
+import lk.ijse.D24HotelSystem.Dto.UsersDTO;
 
 import java.util.List;
 
