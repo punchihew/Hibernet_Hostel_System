@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64fa2323-7184-49a6-9f33-07d3a16df8df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Controller/StudentFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Controller/StudentFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/View/UsersForm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/View/UsersForm.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.AppInitializer (1)" />
@@ -107,6 +120,7 @@
       <workItem from="1693844103021" duration="3899000" />
       <workItem from="1693903149374" duration="4502000" />
       <workItem from="1693922267846" duration="979000" />
+      <workItem from="1693923264424" duration="463000" />
     </task>
     <servers />
   </component>
