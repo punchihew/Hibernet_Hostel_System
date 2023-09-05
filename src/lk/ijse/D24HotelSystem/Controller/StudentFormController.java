@@ -204,6 +204,7 @@ public class StudentFormController {
         txtStudentUniversity.clear();
     }
 
+
     public void deleteStudentOnAction(ActionEvent actionEvent) throws Exception {
         boolean isValidate = checkValidation();
         if (isValidate){
