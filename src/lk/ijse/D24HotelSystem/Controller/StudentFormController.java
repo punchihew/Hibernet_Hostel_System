@@ -13,8 +13,8 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.AnchorPane;
 import lk.ijse.D24HotelSystem.bo.BOFactory;
-import lk.ijse.d24hostelsystem.bo.custom.StudentBO;
-import lk.ijse.d24hostelsystem.dto.StudentDTO;
+import lk.ijse.D24HotelSystem.bo.custom.StudentBO;
+import lk.ijse.D24HotelSystem.dto.StudentDTO;
 
 import java.io.IOException;
 import java.util.ArrayList;
