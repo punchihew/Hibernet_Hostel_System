@@ -12,7 +12,7 @@ import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.AnchorPane;
-import lk.ijse.d24hostelsystem.bo.BOFactory;
+import lk.ijse.D24HotelSystem.bo.BOFactory;
 import lk.ijse.d24hostelsystem.bo.custom.StudentBO;
 import lk.ijse.d24hostelsystem.dto.StudentDTO;
 
