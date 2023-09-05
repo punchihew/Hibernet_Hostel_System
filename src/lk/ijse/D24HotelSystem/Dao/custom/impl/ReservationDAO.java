@@ -1,8 +1,8 @@
 package lk.ijse.D24HotelSystem.Dao.custom.impl;
 
 
-import lk.ijse.d24hostelsystem.dao.CrudDAO;
-import lk.ijse.d24hostelsystem.entity.Reservation;
+import lk.ijse.D24HotelSystem.Dao.CrudDAO;
+import lk.ijse.D24HotelSystem.Entity.Reservation;
 import org.hibernate.Session;
 
 public interface ReservationDAO extends CrudDAO<Reservation> {
