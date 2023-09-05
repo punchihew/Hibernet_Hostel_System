@@ -11,7 +11,7 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import lk.ijse.D24HotelSystem.Bo.BOFactory;
 import lk.ijse.D24HotelSystem.Bo.custom.RoomsBO;
-import lk.ijse.D24HotelSystem.dto.RoomDTO;
+import lk.ijse.D24HotelSystem.Dto.RoomDTO;
 
 import java.util.List;
 
