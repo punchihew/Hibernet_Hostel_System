@@ -2,7 +2,7 @@ package lk.ijse.D24HotelSystem.Dao.custom.impl;
 
 
 import lk.ijse.D24HotelSystem.Dao.custom.ReservationDAO;
-import lk.ijse.d24hostelsystem.entity.Reservation;
+import lk.ijse.D24HotelSystem.Entity.Reservation;
 import org.hibernate.Session;
 import org.hibernate.query.Query;
 

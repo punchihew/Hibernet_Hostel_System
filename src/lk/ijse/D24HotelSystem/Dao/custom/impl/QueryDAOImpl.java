@@ -1,9 +1,9 @@
 package lk.ijse.D24HotelSystem.Dao.custom.impl;
 
 
-import lk.ijse.d24hostelsystem.dao.custom.QueryDAO;
-import lk.ijse.d24hostelsystem.projection.StudentDetailsDTO;
-import lk.ijse.d24hostelsystem.util.SessionFactoryConfig;
+import lk.ijse.D24HotelSystem.Dao.custom.QueryDAO;
+import lk.ijse.D24HotelSystem.Projection.StudentDetailsDTO;
+import lk.ijse.D24HotelSystem.Util.SessionFactoryConfig;
 import org.hibernate.Session;
 import org.hibernate.query.Query;
 

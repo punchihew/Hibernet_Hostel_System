@@ -1,7 +1,7 @@
 package lk.ijse.D24HotelSystem.Dao.custom.impl;
 
-import lk.ijse.d24hostelsystem.dao.custom.UserDAO;
-import lk.ijse.d24hostelsystem.entity.Users;
+import lk.ijse.D24HotelSystem.Dao.custom.UserDAO;
+import lk.ijse.D24HotelSystem.Entity.Users;
 import org.hibernate.Session;
 import org.hibernate.query.Query;
 
