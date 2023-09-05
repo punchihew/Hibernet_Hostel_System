@@ -1,11 +1,11 @@
 package lk.ijse.D24HotelSystem.Bo.custom.impl;
 
-import lk.ijse.d24hostelsystem.bo.custom.StudentBO;
-import lk.ijse.d24hostelsystem.dao.DAOFactory;
-import lk.ijse.d24hostelsystem.dao.custom.StudentDAO;
-import lk.ijse.d24hostelsystem.dto.StudentDTO;
-import lk.ijse.d24hostelsystem.entity.Student;
-import lk.ijse.d24hostelsystem.util.SessionFactoryConfig;
+import lk.ijse.D24HotelSystem.Bo.custom.StudentBO;
+import lk.ijse.D24HotelSystem.Dao.DAOFactory;
+import lk.ijse.D24HotelSystem.Dao.custom.StudentDAO;
+import lk.ijse.D24HotelSystem.Dto.StudentDTO;
+import lk.ijse.D24HotelSystem.Entity.Student;
+import lk.ijse.D24HotelSystem.Util.SessionFactoryConfig;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 

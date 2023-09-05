@@ -11,6 +11,7 @@ import lk.ijse.D24HotelSystem.Dto.RoomDTO;
 import lk.ijse.D24HotelSystem.Dto.StudentDTO;
 import lk.ijse.D24HotelSystem.Entity.Reservation;
 import lk.ijse.D24HotelSystem.Entity.Room;
+import lk.ijse.D24HotelSystem.Entity.Student;
 import lk.ijse.D24HotelSystem.Projection.StudentDetailsDTO;
 import lk.ijse.D24HotelSystem.Util.SessionFactoryConfig;
 import org.hibernate.Session;

@@ -16,7 +16,7 @@ public class AppInitializer extends Application {
     @Override
     public void start(Stage primaryStage) throws IOException {
         Session session= SessionFactoryConfig.getInstance().getSession();
-        primaryStage.setScene(new Scene(FXMLLoader.load(getClass().getResource("/lk/ijse/d24hostelsystem/view/DashboardForm.fxml"))));
+        primaryStage.setScene(new Scene(FXMLLoader.load(getClass().getResource("lk/ijse/D24HotelSystem/View/DashboardForm.fxml"))));
         primaryStage.initStyle(StageStyle.UNDECORATED);
         primaryStage.centerOnScreen();
         primaryStage.setResizable(false);
