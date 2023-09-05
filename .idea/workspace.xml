@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64fa2323-7184-49a6-9f33-07d3a16df8df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Bo/custom/impl/StudentBOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Bo/custom/impl/StudentBOImpl.java" afterDir="false" />
-    </list>
+    <list default="true" id="64fa2323-7184-49a6-9f33-07d3a16df8df" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Lib/required/txw2-2.3.1.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/View" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -52,6 +50,7 @@
       <recent name="lk.ijse.D24HotelSystem" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kr528\Documents\Hibernet\D24_Hostel\src\lk\ijse\D24HotelSystem\View" />
       <recent name="C:\Users\kr528\Documents\Hibernet\D24_Hostel\src\lk\ijse\D24HotelSystem" />
       <recent name="C:\Users\kr528\Documents\Hibernet\D24_Hostel\src" />
     </key>
@@ -117,7 +116,7 @@
       <updated>1693843397043</updated>
       <workItem from="1693843398289" duration="4000" />
       <workItem from="1693844103021" duration="3899000" />
-      <workItem from="1693903149374" duration="4016000" />
+      <workItem from="1693903149374" duration="4345000" />
     </task>
     <servers />
   </component>
