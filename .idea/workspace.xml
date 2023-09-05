@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64fa2323-7184-49a6-9f33-07d3a16df8df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Bo/custom/RoomsBO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Bo/custom/RoomsBO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Bo/custom/StudentBO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Bo/custom/StudentBO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Bo/custom/UsersBO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Bo/custom/UsersBO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Bo/custom/impl/RoomsBOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Bo/custom/impl/StudentBOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Bo/custom/impl/LoginBOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Bo/custom/impl/LoginBOImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +53,11 @@
       <recent name="C:\Users\kr528\Documents\Hibernet\D24_Hostel\src\lk\ijse\D24HotelSystem\View\assets" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lk.ijse.D24HotelSystem.Bo.custom.impl" />
       <recent name="lk.ijse.D24HotelSystem.Bo.custom" />
       <recent name="lk.ijse.D24HotelSystem.Bo" />
       <recent name="" />
       <recent name="lk.ijse.D24HotelSystem.Projection" />
-      <recent name="lk.ijse.D24HotelSystem.Dao.custom.impl" />
     </key>
   </component>
   <component name="RunManager" selected="Application.AppInitializer (1)">
@@ -111,7 +111,7 @@
       <updated>1693843397043</updated>
       <workItem from="1693843398289" duration="4000" />
       <workItem from="1693844103021" duration="3899000" />
-      <workItem from="1693903149374" duration="2953000" />
+      <workItem from="1693903149374" duration="3571000" />
     </task>
     <servers />
   </component>

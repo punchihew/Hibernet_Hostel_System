@@ -1,11 +1,11 @@
 package lk.ijse.D24HotelSystem.Bo.custom.impl;
 
-import lk.ijse.d24hostelsystem.bo.custom.LoginBO;
-import lk.ijse.d24hostelsystem.dao.DAOFactory;
-import lk.ijse.d24hostelsystem.dao.custom.UserDAO;
-import lk.ijse.d24hostelsystem.dto.UsersDTO;
-import lk.ijse.d24hostelsystem.entity.Users;
-import lk.ijse.d24hostelsystem.util.SessionFactoryConfig;
+import lk.ijse.D24HotelSystem.Bo.custom.LoginBO;
+import lk.ijse.D24HotelSystem.Dao.DAOFactory;
+import lk.ijse.D24HotelSystem.Dao.custom.UserDAO;
+import lk.ijse.D24HotelSystem.Dto.UsersDTO;
+import lk.ijse.D24HotelSystem.Entity.Users;
+import lk.ijse.D24HotelSystem.Util.SessionFactoryConfig;
 import org.hibernate.Session;
 
 import java.util.List;
