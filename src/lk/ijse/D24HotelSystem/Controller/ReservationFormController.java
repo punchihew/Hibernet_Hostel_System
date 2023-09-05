@@ -11,12 +11,12 @@ import javafx.scene.control.Alert;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
-import lk.ijse.d24hostelsystem.bo.BOFactory;
-import lk.ijse.d24hostelsystem.bo.custom.ReservationBO;
-import lk.ijse.d24hostelsystem.dto.ReservationDTO;
-import lk.ijse.d24hostelsystem.dto.RoomDTO;
-import lk.ijse.d24hostelsystem.dto.StudentDTO;
-import lk.ijse.d24hostelsystem.projection.StudentDetailsDTO;
+import lk.ijse.D24HotelSystem.Bo.BOFactory;
+import lk.ijse.D24HotelSystem.Bo.custom.ReservationBO;
+import lk.ijse.D24HotelSystem.Dto.ReservationDTO;
+import lk.ijse.D24HotelSystem.Dto.RoomDTO;
+import lk.ijse.D24HotelSystem.Dto.StudentDTO;
+import lk.ijse.D24HotelSystem.Projection.StudentDetailsDTO;
 
 import java.util.Calendar;
 import java.util.Date;
