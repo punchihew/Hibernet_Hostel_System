@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="64fa2323-7184-49a6-9f33-07d3a16df8df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/D24_Hostel/hibernate.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/D24_Hostel/lk/ijse/D24HotelSystem/Controller/DashboardFormController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/D24_Hostel/lk/ijse/D24HotelSystem/Controller/DashboardFormController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/D24_Hostel/lk/ijse/D24HotelSystem/Util/SessionFactoryConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/D24_Hostel/lk/ijse/D24HotelSystem/Util/SessionFactoryConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hibernate.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/AppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Controller/DashboardFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Controller/DashboardFormController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Util/SessionFactoryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Util/SessionFactoryConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,17 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.AppInitializer" />
@@ -126,6 +108,7 @@
       <workItem from="1693922267846" duration="979000" />
       <workItem from="1693923264424" duration="2258000" />
       <workItem from="1693928122984" duration="2999000" />
+      <workItem from="1693934452461" duration="651000" />
     </task>
     <servers />
   </component>
