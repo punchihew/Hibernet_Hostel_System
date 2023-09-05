@@ -9,7 +9,7 @@
 <?import javafx.scene.text.Font?>
 
 
-<AnchorPane prefHeight="611.0" prefWidth="1206.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.D24HotelSystem.controller.RoomsFormController">
+<AnchorPane prefHeight="611.0" prefWidth="1206.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.D24HotelSystem.Controller.RoomsFormController">
    <children>
       <JFXTextField fx:id="txtRoomId" focusColor="#61ce70" labelFloat="true" layoutX="243.0" layoutY="198.0" prefHeight="27.0" prefWidth="195.0" promptText="Room ID" unFocusColor="WHITE">
          <font>
