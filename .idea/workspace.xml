@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64fa2323-7184-49a6-9f33-07d3a16df8df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Util/SessionFactoryConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,8 @@
       <recent name="C:\Users\kr528\Documents\Hibernet\D24_Hostel\src\lk\ijse\D24HotelSystem\View\assets" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lk.ijse.D24HotelSystem.Dao.custom" />
+      <recent name="lk.ijse.D24HotelSystem.Dao" />
       <recent name="lk.ijse.D24HotelSystem.Util" />
       <recent name="lk.ijse.D24HotelSystem.Entity" />
       <recent name="lk.ijse.D24HotelSystem.Dto" />
@@ -70,17 +72,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.AppInitializer" />
@@ -96,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693843397043</updated>
       <workItem from="1693843398289" duration="4000" />
-      <workItem from="1693844103021" duration="3310000" />
+      <workItem from="1693844103021" duration="3899000" />
     </task>
     <servers />
   </component>
