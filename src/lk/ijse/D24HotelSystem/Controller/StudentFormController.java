@@ -14,7 +14,7 @@ import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.AnchorPane;
 import lk.ijse.D24HotelSystem.Bo.BOFactory;
 import lk.ijse.D24HotelSystem.Bo.custom.StudentBO;
-import lk.ijse.D24HotelSystem.dto.StudentDTO;
+import lk.ijse.D24HotelSystem.Dto.StudentDTO;
 
 import java.io.IOException;
 import java.util.ArrayList;
