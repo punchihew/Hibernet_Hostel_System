@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64fa2323-7184-49a6-9f33-07d3a16df8df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/AppInizillier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Dao/custom/impl/QueryDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lk/ijse/D24HotelSystem/Dao/custom/impl/QueryDAOImpl.java" afterDir="false" />
-    </list>
+    <list default="true" id="64fa2323-7184-49a6-9f33-07d3a16df8df" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,11 +49,11 @@
       <recent name="C:\Users\kr528\Documents\Hibernet\D24_Hostel\src\lk\ijse\D24HotelSystem\View\assets" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lk.ijse.D24HotelSystem.Bo.custom" />
+      <recent name="lk.ijse.D24HotelSystem.Bo" />
       <recent name="" />
       <recent name="lk.ijse.D24HotelSystem.Projection" />
       <recent name="lk.ijse.D24HotelSystem.Dao.custom.impl" />
-      <recent name="lk.ijse.D24HotelSystem.Dao.custom" />
-      <recent name="lk.ijse.D24HotelSystem.Dao" />
     </key>
   </component>
   <component name="RunManager" selected="Application.AppInitializer (1)">
@@ -110,7 +107,7 @@
       <updated>1693843397043</updated>
       <workItem from="1693843398289" duration="4000" />
       <workItem from="1693844103021" duration="3899000" />
-      <workItem from="1693903149374" duration="1660000" />
+      <workItem from="1693903149374" duration="2323000" />
     </task>
     <servers />
   </component>
