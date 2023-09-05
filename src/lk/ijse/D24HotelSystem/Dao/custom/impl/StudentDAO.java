@@ -1,7 +1,7 @@
 package lk.ijse.D24HotelSystem.Dao.custom.impl;
 
-import lk.ijse.d24hostelsystem.dao.CrudDAO;
-import lk.ijse.d24hostelsystem.entity.Student;
+import lk.ijse.D24HotelSystem.Dao.CrudDAO;
+import lk.ijse.D24HotelSystem.Entity.Student;
 import org.hibernate.Session;
 
 import java.util.List;
