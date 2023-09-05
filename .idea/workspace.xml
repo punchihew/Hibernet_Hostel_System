@@ -49,11 +49,11 @@
       <recent name="C:\Users\kr528\Documents\Hibernet\D24_Hostel\src\lk\ijse\D24HotelSystem\View\assets" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lk.ijse.D24HotelSystem.Dao.custom.impl" />
       <recent name="lk.ijse.D24HotelSystem.Dao.custom" />
       <recent name="lk.ijse.D24HotelSystem.Dao" />
       <recent name="lk.ijse.D24HotelSystem.Util" />
       <recent name="lk.ijse.D24HotelSystem.Entity" />
-      <recent name="lk.ijse.D24HotelSystem.Dto" />
     </key>
   </component>
   <component name="RunManager">
@@ -99,7 +99,7 @@
       <updated>1693843397043</updated>
       <workItem from="1693843398289" duration="4000" />
       <workItem from="1693844103021" duration="3899000" />
-      <workItem from="1693903149374" duration="318000" />
+      <workItem from="1693903149374" duration="618000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-package lk.ijse.D24HotelSystem.Dao.custom.impl;
+package lk.ijse.D24HotelSystem.Dao.custom;
 
 
 import lk.ijse.D24HotelSystem.Dao.CrudDAO;
