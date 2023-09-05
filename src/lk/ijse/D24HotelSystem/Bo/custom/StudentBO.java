@@ -1,7 +1,7 @@
 package lk.ijse.D24HotelSystem.Bo.custom;
 
-import lk.ijse.d24hostelsystem.bo.SuperBO;
-import lk.ijse.d24hostelsystem.dto.StudentDTO;
+import lk.ijse.D24HotelSystem.Bo.SuperBO;
+import lk.ijse.D24HotelSystem.Dto.StudentDTO;
 
 import java.util.List;
 

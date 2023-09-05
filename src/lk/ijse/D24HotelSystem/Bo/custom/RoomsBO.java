@@ -2,8 +2,8 @@ package lk.ijse.D24HotelSystem.Bo.custom;
 
 
 
-import lk.ijse.d24hostelsystem.bo.SuperBO;
-import lk.ijse.d24hostelsystem.dto.RoomDTO;
+import lk.ijse.D24HotelSystem.Bo.SuperBO;
+import lk.ijse.D24HotelSystem.Dto.RoomDTO;
 
 import java.util.List;
 
