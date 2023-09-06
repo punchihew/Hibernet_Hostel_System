@@ -34,9 +34,9 @@
             <Font size="15.0" />
          </font>
       </JFXTextField>
-      <JFXDatePicker fx:id="txtStudentDob" defaultColor="#61ce70" layoutX="190.0" layoutY="324.0" prefHeight="27.0" prefWidth="230.0" promptText="Date Of Birth" />
-      <JFXComboBox fx:id="cmbStudentGender" focusColor="#61ce70" labelFloat="true" layoutX="190.0" layoutY="387.0" prefHeight="27.0" prefWidth="230.0" promptText="Gender" unFocusColor="WHITE" />
-      <JFXTextField fx:id="txtStudentPhoneNumber" focusColor="#61ce70" labelFloat="true" layoutX="190.0" layoutY="457.0" prefHeight="29.0" prefWidth="230.0" promptText="Phone Number" unFocusColor="WHITE">
+      <JFXDatePicker fx:id="txtStudentDob" defaultColor="#46a8a8" layoutX="190.0" layoutY="324.0" prefHeight="27.0" prefWidth="230.0" promptText="Date Of Birth" />
+      <JFXComboBox fx:id="cmbStudentGender" focusColor="#46a8a8" labelFloat="true" layoutX="190.0" layoutY="387.0" prefHeight="27.0" prefWidth="230.0" promptText="Gender" unFocusColor="WHITE" />
+      <JFXTextField fx:id="txtStudentPhoneNumber" focusColor="#46a8a8" labelFloat="true" layoutX="190.0" layoutY="457.0" prefHeight="29.0" prefWidth="230.0" promptText="Phone Number" unFocusColor="WHITE">
          <font>
             <Font size="15.0" />
          </font>
