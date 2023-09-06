@@ -100,7 +100,7 @@
                     </font>
                 </Label>
             </children></AnchorPane>
-        <JFXButton buttonType="RAISED" layoutX="990.0" layoutY="654.0" onAction="#setttingsOnAction" prefHeight="40.0" prefWidth="113.0" style="-fx-background-color: black; -fx-border-color: white; -fx-background-radius: 20; -fx-border-radius: 10;" text="Settings" textFill="WHITE">
+        <JFXButton buttonType="RAISED" layoutX="990.0" layoutY="654.0" onAction="#setttingsOnAction" prefHeight="40.0" prefWidth="113.0" style="-fx-background-color: #47f3ab; -fx-border-color: white; -fx-background-radius: 20; -fx-border-radius: 10;" text="Settings" textFill="WHITE">
             <graphic>
                 <ImageView fitHeight="29.0" fitWidth="31.0" pickOnBounds="true" preserveRatio="true">
                     <image>
