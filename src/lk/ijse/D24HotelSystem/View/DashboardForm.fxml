@@ -31,7 +31,7 @@
                 <Cursor fx:constant="HAND" />
             </cursor></JFXButton>
         <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="18.0" layoutX="864.0" layoutY="29.0" onAction="#studentsOnAction" prefHeight="54.0" prefWidth="165.0" ripplerFill="#46a8a8"
-                   style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Students" textFill="#7dc3cb">
+                   style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Students" textFill="#86fffa">
             <graphic>
                 <ImageView fitHeight="38.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                     <image>
