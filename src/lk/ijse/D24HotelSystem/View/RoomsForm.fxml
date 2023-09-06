@@ -26,7 +26,7 @@
             <Font size="15.0" />
          </font>
       </JFXTextField>
-      <JFXTextField fx:id="txtRoomQty" focusColor="#61ce70" labelFloat="true" layoutX="243.0" layoutY="385.0" prefHeight="27.0" prefWidth="195.0" promptText="Quantity" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtRoomQty" focusColor="#46a8a8" labelFloat="true" layoutX="243.0" layoutY="385.0" prefHeight="27.0" prefWidth="195.0" promptText="Quantity" unFocusColor="WHITE">
          <font>
             <Font size="15.0" />
          </font>
