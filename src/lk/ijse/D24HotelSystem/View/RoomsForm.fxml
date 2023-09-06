@@ -16,12 +16,12 @@
             <Font size="15.0" />
          </font>
       </JFXTextField>
-      <JFXTextField fx:id="txtRoomType" focusColor="#61ce70" labelFloat="true" layoutX="243.0" layoutY="260.0" prefHeight="27.0" prefWidth="195.0" promptText="Type" unFocusColor="#46a8a8">
+      <JFXTextField fx:id="txtRoomType" focusColor="#86fffa" labelFloat="true" layoutX="243.0" layoutY="260.0" prefHeight="27.0" prefWidth="195.0" promptText="Type" unFocusColor="#46a8a8">
          <font>
             <Font size="15.0" />
          </font>
       </JFXTextField>
-      <JFXTextField fx:id="txtRoomKeyMoney" focusColor="#61ce70" labelFloat="true" layoutX="243.0" layoutY="323.0" prefHeight="27.0" prefWidth="195.0" promptText="Key Money" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtRoomKeyMoney" focusColor="#46a8a8" labelFloat="true" layoutX="243.0" layoutY="323.0" prefHeight="27.0" prefWidth="195.0" promptText="Key Money" unFocusColor="WHITE">
          <font>
             <Font size="15.0" />
          </font>
