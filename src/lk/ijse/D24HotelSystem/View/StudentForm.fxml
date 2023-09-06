@@ -60,13 +60,13 @@
       <Line endX="100.0" endY="-49.0" layoutX="81.0" layoutY="243.0" startX="100.0" startY="174.0" />
       <JFXButton fx:id="btnSaveStudent" layoutX="446.0" layoutY="318.0" onAction="#saveStudentOnAction" prefHeight="27.0" prefWidth="134.0" ripplerFill="#61ce70"
                  style="-fx-background-color: #ffffff;" text="Save" textFill="#000000"/>
-      <JFXButton fx:id="btnSearchStudent" layoutX="446.0" layoutY="367.0" onAction="#searchStudentOnAction" prefHeight="27.0" prefWidth="134.0" ripplerFill="#61ce70"
+      <JFXButton fx:id="btnSearchStudent" layoutX="446.0" layoutY="367.0" onAction="#searchStudentOnAction" prefHeight="27.0" prefWidth="134.0" ripplerFill="#46a8a8"
                  style="-fx-background-color: #ffffff;" text="Search" />
-      <JFXButton fx:id="btnUpdateStudent" layoutX="446.0" layoutY="420.0" onAction="#updateStudentOnAction" prefHeight="27.0" prefWidth="134.0" ripplerFill="#61ce70"
+      <JFXButton fx:id="btnUpdateStudent" layoutX="446.0" layoutY="420.0" onAction="#updateStudentOnAction" prefHeight="27.0" prefWidth="134.0" ripplerFill="#46a8a8"
                  style="-fx-background-color: #ffffff;" text="Update" />
-      <JFXButton fx:id="btnClear" layoutX="446.0" layoutY="531.0" onAction="#clearOnAction" prefHeight="27.0" prefWidth="134.0" ripplerFill="#61ce70"
+      <JFXButton fx:id="btnClear" layoutX="446.0" layoutY="531.0" onAction="#clearOnAction" prefHeight="27.0" prefWidth="134.0" ripplerFill="#46a8a8"
                  style="-fx-background-color: #ffffff;" text="Clear" textFill="#000000"/>
-      <JFXButton fx:id="btnDeleteStudent" layoutX="446.0" layoutY="476.0" onAction="#deleteStudentOnAction" prefHeight="27.0" prefWidth="134.0" ripplerFill="#61ce70"
+      <JFXButton fx:id="btnDeleteStudent" layoutX="446.0" layoutY="476.0" onAction="#deleteStudentOnAction" prefHeight="27.0" prefWidth="134.0" ripplerFill="#46a8a8"
                  style="-fx-background-color: #ffffff;" text="Delete" textFill="#000000"/>
       <TableView fx:id="tblStudents" layoutX="600.0" layoutY="109.0" prefHeight="453.0" prefWidth="597.0">
         <columns>
