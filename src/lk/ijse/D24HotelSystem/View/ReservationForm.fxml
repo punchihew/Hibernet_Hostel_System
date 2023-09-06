@@ -22,7 +22,7 @@
       </JFXTextField>
       <JFXComboBox fx:id="cmbStudentId" focusColor="#46a8a8" labelFloat="true" layoutX="52.0" layoutY="149.0" onAction="#cmbStudentOnAction" prefHeight="27.0" prefWidth="187.0" promptText="Student ID" unFocusColor="#7dc3cb"/>
       <JFXComboBox fx:id="cmbRoomID" focusColor="#46a8a8" labelFloat="true" layoutX="52.0" layoutY="199.0" onAction="#cmbRoomOnAction" prefHeight="27.0" prefWidth="187.0" promptText="Room ID" unFocusColor="#7dc3cb"/>
-      <JFXTextField fx:id="txtStudentName" focusColor="#7dc3cb" labelFloat="true" layoutX="292.0" layoutY="149.0" prefHeight="27.0" prefWidth="174.0" promptText="Student Name" unFocusColor="#46a8a8"/>
+      <JFXTextField fx:id="txtStudentName" focusColor="#46a8a8" labelFloat="true" layoutX="292.0" layoutY="149.0" prefHeight="27.0" prefWidth="174.0" promptText="Student Name" unFocusColor="#7dc3cb"/>
       <JFXTextField fx:id="txtRoomQty" focusColor="#46a8a8" labelFloat="true" layoutX="292.0" layoutY="192.0" prefHeight="27.0" prefWidth="174.0" promptText="Room Qty" unFocusColor="#7dc3cb"/>
       <JFXButton fx:id="dltReserveOnAction" layoutX="388.0" layoutY="246.0" onAction="#dltOnAction" prefHeight="27.0" prefWidth="87.0" style="-fx-background-color: white;" text="Delete" />
       <JFXButton fx:id="updateReserveOnAction" layoutX="292.0" layoutY="246.0" onAction="#updateOnAction" prefHeight="27.0" prefWidth="87.0" style="-fx-background-color: white;" text="Update" />
