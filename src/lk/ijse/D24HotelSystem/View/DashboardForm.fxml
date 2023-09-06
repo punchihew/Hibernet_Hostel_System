@@ -16,7 +16,7 @@
             </image>
         </ImageView>
         <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="10.0" layoutX="649.0" layoutY="30.0" onAction="#reservationOnAction" prefHeight="55.0" prefWidth="180.0" ripplerFill="#7dc3cb"
-                   style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Reservation" textFill="#42d032">
+                   style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Reservation" textFill="#46a8a8">
             <graphic>
                 <ImageView fitHeight="39.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                     <image>
@@ -31,7 +31,7 @@
                 <Cursor fx:constant="HAND" />
             </cursor></JFXButton>
         <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="18.0" layoutX="864.0" layoutY="29.0" onAction="#studentsOnAction" prefHeight="54.0" prefWidth="165.0" ripplerFill="#46a8a8"
-                   style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Students" textFill="#42d032">
+                   style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Students" textFill="#7dc3cb">
             <graphic>
                 <ImageView fitHeight="38.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                     <image>
@@ -47,7 +47,7 @@
             </cursor>
         </JFXButton>
         <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="25.0" layoutX="1056.0" layoutY="29.0" onAction="#roomsOnAction" prefHeight="54.0" prefWidth="165.0" ripplerFill="#46a8a8"
-                   style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Rooms" textFill="#42d032">
+                   style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Rooms" textFill="#7dc3cb">
             <graphic>
                 <ImageView fitHeight="39.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                     <image>
@@ -112,7 +112,7 @@
                 <Cursor fx:constant="OPEN_HAND" />
             </cursor>
         </JFXButton>
-        <JFXButton buttonType="RAISED" layoutX="1115.0" layoutY="654.0" onAction="#signOutOnAction" prefHeight="40.0" prefWidth="113.0" style="-fx-background-color: green; -fx-background-radius: 10; -fx-border-color: white; -fx-border-radius: 10;" text="Sign Out" textFill="WHITE">
+        <JFXButton buttonType="RAISED" layoutX="1115.0" layoutY="654.0" onAction="#signOutOnAction" prefHeight="40.0" prefWidth="113.0" style="-fx-background-color: #1eead0; -fx-background-radius: 10; -fx-border-color: white; -fx-border-radius: 10;" text="Sign Out" textFill="WHITE">
             <graphic>
                 <ImageView fitHeight="28.0" fitWidth="33.0" pickOnBounds="true" preserveRatio="true">
                     <image>
@@ -124,7 +124,7 @@
                 <Cursor fx:constant="OPEN_HAND" />
             </cursor>
         </JFXButton>
-        <JFXButton buttonType="RAISED" layoutX="865.0" layoutY="654.0" onAction="#BackOnAction" prefHeight="40.0" prefWidth="113.0" style="-fx-background-color: green; -fx-background-radius: 10; -fx-border-color: white; -fx-border-radius: 10;" text="Back" textFill="WHITE">
+        <JFXButton buttonType="RAISED" layoutX="865.0" layoutY="654.0" onAction="#BackOnAction" prefHeight="40.0" prefWidth="113.0" style="-fx-background-color: #74e2ae; -fx-background-radius: 10; -fx-border-color: white; -fx-border-radius: 10;" text="Back" textFill="WHITE">
             <graphic>
                 <ImageView fitHeight="28.0" fitWidth="33.0" pickOnBounds="true" preserveRatio="true">
                     <image>
