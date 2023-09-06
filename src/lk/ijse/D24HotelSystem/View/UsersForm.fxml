@@ -21,7 +21,7 @@
             <Font size="15.0" />
          </font>
       </JFXTextField>
-      <JFXTextField fx:id="txtPassword" focusColor="#46a8a8" layoutX="115.0" layoutY="316.0" prefHeight="27.0" prefWidth="235.0" promptText="Password" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtPassword" focusColor="#46a8a8" layoutX="115.0" layoutY="316.0" prefHeight="27.0" prefWidth="235.0" promptText="Password" unFocusColor="#7dc3cb">
          <font>
             <Font size="15.0" />
          </font>
