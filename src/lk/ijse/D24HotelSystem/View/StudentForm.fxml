@@ -19,17 +19,17 @@
             <Font size="15.0" />
          </font>
       </JFXTextField>
-      <JFXTextField fx:id="txtStudentId" focusColor="#61ce70" labelFloat="true" layoutX="190.0" layoutY="64.0" prefHeight="29.0" prefWidth="230.0" promptText="Student ID" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtStudentId" focusColor="#46a8a8" labelFloat="true" layoutX="190.0" layoutY="64.0" prefHeight="29.0" prefWidth="230.0" promptText="Student ID" unFocusColor="WHITE">
          <font>
             <Font size="15.0" />
          </font>
       </JFXTextField>
-      <JFXTextField fx:id="txtStudentNic" focusColor="#61ce70" labelFloat="true" layoutX="190.0" layoutY="194.0" prefHeight="29.0" prefWidth="230.0" promptText="NIC Number" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtStudentNic" focusColor="#46a8a8" labelFloat="true" layoutX="190.0" layoutY="194.0" prefHeight="29.0" prefWidth="230.0" promptText="NIC Number" unFocusColor="WHITE">
          <font>
             <Font size="15.0" />
          </font>
       </JFXTextField>
-      <JFXTextField fx:id="txtStudentHomeTown" focusColor="#61ce70" labelFloat="true" layoutX="190.0" layoutY="262.0" prefHeight="29.0" prefWidth="230.0" promptText="Home Town" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtStudentHomeTown" focusColor="#46a8a8" labelFloat="true" layoutX="190.0" layoutY="262.0" prefHeight="29.0" prefWidth="230.0" promptText="Home Town" unFocusColor="WHITE">
          <font>
             <Font size="15.0" />
          </font>
