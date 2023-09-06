@@ -11,12 +11,12 @@
 
 <AnchorPane prefHeight="611.0" prefWidth="1206.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.D24HotelSystem.Controller.RoomsFormController">
    <children>
-      <JFXTextField fx:id="txtRoomId" focusColor="#46a8a8" labelFloat="true" layoutX="243.0" layoutY="198.0" prefHeight="27.0" prefWidth="195.0" promptText="Room ID" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtRoomId" focusColor="#46a8a8" labelFloat="true" layoutX="243.0" layoutY="198.0" prefHeight="27.0" prefWidth="195.0" promptText="Room ID" unFocusColor="#46a8a8">
          <font>
             <Font size="15.0" />
          </font>
       </JFXTextField>
-      <JFXTextField fx:id="txtRoomType" focusColor="#61ce70" labelFloat="true" layoutX="243.0" layoutY="260.0" prefHeight="27.0" prefWidth="195.0" promptText="Type" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtRoomType" focusColor="#61ce70" labelFloat="true" layoutX="243.0" layoutY="260.0" prefHeight="27.0" prefWidth="195.0" promptText="Type" unFocusColor="#46a8a8">
          <font>
             <Font size="15.0" />
          </font>
