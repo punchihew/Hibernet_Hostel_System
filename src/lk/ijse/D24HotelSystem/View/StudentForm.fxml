@@ -50,9 +50,9 @@
                  style="-fx-background-color: #C0C0C0;" text="Add a Student" />
       <JFXButton layoutX="23.0" layoutY="291.0" onAction="#updateStudentVisibleOnAction" prefHeight="27.0" prefWidth="145.0" ripplerFill="#46a8a8"
                  style="-fx-background-color: #C0C0C0;" text="Update student Details" />
-      <JFXButton layoutX="23.0" layoutY="360.0" onAction="#deleteStudentVisibleOnAction" prefHeight="27.0" prefWidth="145.0" ripplerFill="#61ce70"
+      <JFXButton layoutX="23.0" layoutY="360.0" onAction="#deleteStudentVisibleOnAction" prefHeight="27.0" prefWidth="145.0" ripplerFill="#46a8a8"
                  style="-fx-background-color: #C0C0C0;" text="Delete a Student" />
-      <JFXTextField fx:id="txtStudentUniversity" focusColor="#61ce70" labelFloat="true" layoutX="190.0" layoutY="523.0" prefHeight="29.0" prefWidth="230.0" promptText="University" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtStudentUniversity" focusColor="#46a8a8" labelFloat="true" layoutX="190.0" layoutY="523.0" prefHeight="29.0" prefWidth="230.0" promptText="University" unFocusColor="WHITE">
          <font>
             <Font size="15.0" />
          </font>
