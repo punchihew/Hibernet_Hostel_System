@@ -14,7 +14,7 @@
 <AnchorPane fx:id="studentPane" prefHeight="611.0" prefWidth="1206.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.D24HotelSystem.Controller.StudentFormController">
    <children>
       <JFXButton buttonType="RAISED" layoutX="14.0" layoutY="14.0" onAction="#goBackOnAction" prefHeight="29.0" prefWidth="73.0" ripplerFill="#140101" style="-fx-background-color: gray;" text="Go Back" textFill="#f2eeee" />
-      <JFXTextField fx:id="txtStudentName" focusColor="#61ce70" labelFloat="true" layoutX="190.0" layoutY="127.0" prefHeight="29.0" prefWidth="230.0" promptText="Full Name" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtStudentName" focusColor="#46a8a8" labelFloat="true" layoutX="190.0" layoutY="127.0" prefHeight="29.0" prefWidth="230.0" promptText="Full Name" unFocusColor="WHITE">
          <font>
             <Font size="15.0" />
          </font>
@@ -46,9 +46,9 @@
             <Font name="System Bold" size="20.0" />
          </font>
       </Label>
-      <JFXButton layoutX="23.0" layoutY="225.0" onAction="#addStudentVisibleOnAction" prefHeight="27.0" prefWidth="145.0" ripplerFill="#61ce70"
+      <JFXButton layoutX="23.0" layoutY="225.0" onAction="#addStudentVisibleOnAction" prefHeight="27.0" prefWidth="145.0" ripplerFill="#46a8a8"
                  style="-fx-background-color: #C0C0C0;" text="Add a Student" />
-      <JFXButton layoutX="23.0" layoutY="291.0" onAction="#updateStudentVisibleOnAction" prefHeight="27.0" prefWidth="145.0" ripplerFill="#61ce70"
+      <JFXButton layoutX="23.0" layoutY="291.0" onAction="#updateStudentVisibleOnAction" prefHeight="27.0" prefWidth="145.0" ripplerFill="#46a8a8"
                  style="-fx-background-color: #C0C0C0;" text="Update student Details" />
       <JFXButton layoutX="23.0" layoutY="360.0" onAction="#deleteStudentVisibleOnAction" prefHeight="27.0" prefWidth="145.0" ripplerFill="#61ce70"
                  style="-fx-background-color: #C0C0C0;" text="Delete a Student" />
