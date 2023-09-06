@@ -46,7 +46,7 @@
       </TableView>
       <Button layoutX="115.0" layoutY="441.0" mnemonicParsing="false" onAction="#saveOnAction" prefHeight="27.0" prefWidth="120.0" text="Save" />
       <Button layoutX="243.0" layoutY="441.0" mnemonicParsing="false" onAction="#updateOnAction" prefHeight="27.0" prefWidth="120.0" text="Update" />
-      <JFXTextField fx:id="txtUserID" focusColor="#61ce70" layoutX="115.0" layoutY="113.0" prefHeight="27.0" prefWidth="235.0" promptText="User ID" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtUserID" focusColor="#46a8a8" layoutX="115.0" layoutY="113.0" prefHeight="27.0" prefWidth="235.0" promptText="User ID" unFocusColor="WHITE">
          <font>
             <Font size="15.0" />
          </font>
