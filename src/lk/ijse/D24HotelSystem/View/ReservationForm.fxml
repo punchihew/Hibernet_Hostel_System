@@ -46,7 +46,7 @@
             <TableColumn fx:id="colKeyMoney" prefWidth="125.0" text="Key Money" />
         </columns>
       </TableView>
-      <JFXCheckBox fx:id="cbxStatus" checkedColor="#61ce70" layoutX="52.0" layoutY="251.0" text="Key Money" unCheckedColor="WHITE" />
+      <JFXCheckBox fx:id="cbxStatus" checkedColor="#46a8a8" layoutX="52.0" layoutY="251.0" text="Key Money" unCheckedColor="WHITE" />
       <Label layoutX="24.0" layoutY="315.0" text="Key Money Un paid Students">
          <font>
             <Font size="15.0" />
