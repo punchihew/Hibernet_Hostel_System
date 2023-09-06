@@ -11,22 +11,22 @@
 
 <AnchorPane prefHeight="611.0" prefWidth="1206.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.D24HotelSystem.Controller.UsersFormController">
    <children>
-      <JFXTextField fx:id="txtName" focusColor="#61ce70" layoutX="115.0" layoutY="171.0" prefHeight="27.0" prefWidth="235.0" promptText="Name" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtName" focusColor="#46a8a8" layoutX="115.0" layoutY="171.0" prefHeight="27.0" prefWidth="235.0" promptText="Name" unFocusColor="WHITE">
          <font>
             <Font size="15.0" />
          </font>
       </JFXTextField>
-      <JFXTextField fx:id="txtUserName" focusColor="#61ce70" layoutX="115.0" layoutY="240.0" prefHeight="27.0" prefWidth="235.0" promptText="User Name" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtUserName" focusColor="#46a8a8" layoutX="115.0" layoutY="240.0" prefHeight="27.0" prefWidth="235.0" promptText="User Name" unFocusColor="WHITE">
          <font>
             <Font size="15.0" />
          </font>
       </JFXTextField>
-      <JFXTextField fx:id="txtPassword" focusColor="#61ce70" layoutX="115.0" layoutY="316.0" prefHeight="27.0" prefWidth="235.0" promptText="Password" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtPassword" focusColor="#46a8a8" layoutX="115.0" layoutY="316.0" prefHeight="27.0" prefWidth="235.0" promptText="Password" unFocusColor="WHITE">
          <font>
             <Font size="15.0" />
          </font>
       </JFXTextField>
-      <JFXTextField fx:id="txtEmail" focusColor="#61ce70" layoutX="115.0" layoutY="391.0" prefHeight="27.0" prefWidth="235.0" promptText="Email" unFocusColor="WHITE">
+      <JFXTextField fx:id="txtEmail" focusColor="#46a8a8" layoutX="115.0" layoutY="391.0" prefHeight="27.0" prefWidth="235.0" promptText="Email" unFocusColor="WHITE">
          <font>
             <Font size="15.0" />
          </font>
@@ -37,12 +37,12 @@
          </font>
       </Label>
       <TableView fx:id="tblUsers" layoutX="477.0" layoutY="155.0" prefHeight="348.0" prefWidth="676.0">
-        <columns>
-          <TableColumn fx:id="colUserID" prefWidth="138.0" text="User ID" />
-          <TableColumn fx:id="colName" prefWidth="176.0" text="Name" />
+         <columns>
+            <TableColumn fx:id="colUserID" prefWidth="138.0" text="User ID" />
+            <TableColumn fx:id="colName" prefWidth="176.0" text="Name" />
             <TableColumn fx:id="colUserName" prefWidth="169.0" text="User Name" />
             <TableColumn fx:id="colEmail" prefWidth="192.0" text="email" />
-        </columns>
+         </columns>
       </TableView>
       <Button layoutX="115.0" layoutY="441.0" mnemonicParsing="false" onAction="#saveOnAction" prefHeight="27.0" prefWidth="120.0" text="Save" />
       <Button layoutX="243.0" layoutY="441.0" mnemonicParsing="false" onAction="#updateOnAction" prefHeight="27.0" prefWidth="120.0" text="Update" />

@@ -15,7 +15,8 @@
                 <Image url="@assets/MacBook Air - 1 (1).png" />
             </image>
         </ImageView>
-        <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="10.0" layoutX="649.0" layoutY="30.0" onAction="#reservationOnAction" prefHeight="55.0" prefWidth="180.0" ripplerFill="#000000be" style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Reservation" textFill="#42d032">
+        <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="10.0" layoutX="649.0" layoutY="30.0" onAction="#reservationOnAction" prefHeight="55.0" prefWidth="180.0" ripplerFill="#7dc3cb"
+                   style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Reservation" textFill="#42d032">
             <graphic>
                 <ImageView fitHeight="39.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                     <image>
@@ -29,7 +30,8 @@
             <cursor>
                 <Cursor fx:constant="HAND" />
             </cursor></JFXButton>
-        <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="18.0" layoutX="864.0" layoutY="29.0" onAction="#studentsOnAction" prefHeight="54.0" prefWidth="165.0" ripplerFill="#000000be" style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Students" textFill="#42d032">
+        <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="18.0" layoutX="864.0" layoutY="29.0" onAction="#studentsOnAction" prefHeight="54.0" prefWidth="165.0" ripplerFill="#46a8a8"
+                   style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Students" textFill="#42d032">
             <graphic>
                 <ImageView fitHeight="38.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                     <image>
@@ -44,7 +46,8 @@
                 <Cursor fx:constant="HAND" />
             </cursor>
         </JFXButton>
-        <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="25.0" layoutX="1056.0" layoutY="29.0" onAction="#roomsOnAction" prefHeight="54.0" prefWidth="165.0" ripplerFill="#000000be" style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Rooms" textFill="#42d032">
+        <JFXButton alignment="BASELINE_LEFT" buttonType="RAISED" graphicTextGap="25.0" layoutX="1056.0" layoutY="29.0" onAction="#roomsOnAction" prefHeight="54.0" prefWidth="165.0" ripplerFill="#46a8a8"
+                   style="-fx-background-color: D9D9D9; -fx-background-radius: 10;" text="Rooms" textFill="#42d032">
             <graphic>
                 <ImageView fitHeight="39.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                     <image>
